@@ -44,8 +44,8 @@ Passos para a execução do projeto
 
 Na pasta raiz do projeto executar os comandos abaixo no terminal para suas determinadas funções:
 
-  npm run test-dev (Para executar os testes de forma continua;)
-  npm run test (Para execução dos testes uma unica vez;)
+  * npm run test-dev (Para executar os testes de forma continua;)
+  * npm run test (Para execução dos testes uma unica vez;)
 
 
 
